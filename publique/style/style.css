@@ -25,9 +25,22 @@
     left: 700px;
     bottom: 410px;
 }
+.section3 h1{
+    position: relative;
+    bottom: 700px;
+    left: 900px;
 
+}
+.section3 p{
+    position: relative;
+    bottom: 700px;
+    left: 900px;
+
+}
 button{
     position: relative;
     background-color: blueviolet;
     color: aliceblue;
+    bottom: 700px;
+    left: 900px;
 }
